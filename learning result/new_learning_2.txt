@@ -1,0 +1,146 @@
+===========	SVC	===============
+1 Fold Train Accuracy:0.934426229508	Test Accuracy:1.0
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.951612903226	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.967741935484	Test Accuracy:0.866666666667
+5 Fold Train Accuracy:0.951612903226	Test Accuracy:0.933333333333
+
+===========	LogisticRegression	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.967741935484	Test Accuracy:0.8
+5 Fold Train Accuracy:0.951612903226	Test Accuracy:0.933333333333
+
+===========	DecisionTreeClassifier	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.733333333333
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	KNeighborsClassifier with k = 1	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.875
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.866666666667
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.8
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	KNeighborsClassifier with k = 3	===============
+1 Fold Train Accuracy:0.934426229508	Test Accuracy:1.0
+2 Fold Train Accuracy:0.934426229508	Test Accuracy:0.875
+3 Fold Train Accuracy:0.951612903226	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.951612903226	Test Accuracy:0.866666666667
+5 Fold Train Accuracy:0.935483870968	Test Accuracy:0.933333333333
+
+===========	GaussianNB	===============
+1 Fold Train Accuracy:0.934426229508	Test Accuracy:0.875
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.875
+3 Fold Train Accuracy:0.935483870968	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.967741935484	Test Accuracy:0.866666666667
+5 Fold Train Accuracy:0.935483870968	Test Accuracy:0.933333333333
+
+===========	RandomForestClassifier	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.8
+5 Fold Train Accuracy:0.935483870968	Test Accuracy:0.933333333333
+
+===========	GradientBoostingClassifier	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.733333333333
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	BaggingClassifier SVM	===============
+1 Fold Train Accuracy:0.934426229508	Test Accuracy:1.0
+2 Fold Train Accuracy:0.934426229508	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.967741935484	Test Accuracy:0.866666666667
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	BaggingClassifier LogisticRegression	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+2 Fold Train Accuracy:0.934426229508	Test Accuracy:1.0
+3 Fold Train Accuracy:0.951612903226	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.967741935484	Test Accuracy:0.8
+5 Fold Train Accuracy:0.935483870968	Test Accuracy:0.933333333333
+
+===========	BaggingClassifier DecisionTreeClassifier	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+2 Fold Train Accuracy:0.934426229508	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.733333333333
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	BaggingClassifier KNeighborsClassifier with k = 1	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+2 Fold Train Accuracy:0.934426229508	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.8
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	BaggingClassifier KNeighborsClassifier with k = 3	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+2 Fold Train Accuracy:0.934426229508	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.967741935484	Test Accuracy:0.866666666667
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	BaggingClassifier GaussianNB	===============
+1 Fold Train Accuracy:0.934426229508	Test Accuracy:0.875
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.875
+3 Fold Train Accuracy:0.935483870968	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.967741935484	Test Accuracy:0.866666666667
+5 Fold Train Accuracy:0.951612903226	Test Accuracy:0.933333333333
+
+===========	BaggingClassifier RandomForestClassifier	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+3 Fold Train Accuracy:0.951612903226	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.967741935484	Test Accuracy:0.866666666667
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	BaggingClassifier GradientBoostingClassifier	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.733333333333
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	AdaBoostClassifier SVC	===============
+1 Fold Train Accuracy:0.590163934426	Test Accuracy:0.6875
+2 Fold Train Accuracy:0.622950819672	Test Accuracy:0.5625
+3 Fold Train Accuracy:0.612903225806	Test Accuracy:0.6
+4 Fold Train Accuracy:0.629032258065	Test Accuracy:0.533333333333
+5 Fold Train Accuracy:0.596774193548	Test Accuracy:0.666666666667
+
+===========	AdaBoostClassifier DecisionTreeClassifier	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.733333333333
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	AdaBoostClassifier GaussianNB	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:0.8125
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.875
+3 Fold Train Accuracy:0.935483870968	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.866666666667
+5 Fold Train Accuracy:0.935483870968	Test Accuracy:0.933333333333
+
+===========	AdaBoostClassifier RandomForestClassifier	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:1.0
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.733333333333
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+
+===========	AdaBoostClassifier GradientBoostingClassifier	===============
+1 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+2 Fold Train Accuracy:0.950819672131	Test Accuracy:0.9375
+3 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
+4 Fold Train Accuracy:0.983870967742	Test Accuracy:0.733333333333
+5 Fold Train Accuracy:0.967741935484	Test Accuracy:0.933333333333
